@@ -33,5 +33,9 @@ workflowSchedule:
   updates: "0 3 31 2 1"
   uptime: "*/5 * * * *"
 
+commitMessages:
+  commitAuthorName: "loanselotci"
+  commitAuthorEmail: "144540560+loanselotci@users.noreply.github.com"
+
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
