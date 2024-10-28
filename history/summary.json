@@ -40,18 +40,20 @@
     "url": "https://api.turkb.us/v2/server",
     "icon": "https://icons.duckduckgo.com/ip3/api.turkb.us.ico",
     "slug": "api-v2",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1155,
-    "timeDay": 1066,
-    "timeWeek": 980,
-    "timeMonth": 1155,
-    "timeYear": 1155,
-    "dailyMinutesDown": {}
+    "time": 1148,
+    "timeDay": 985,
+    "timeWeek": 969,
+    "timeMonth": 1148,
+    "timeYear": 1148,
+    "dailyMinutesDown": {
+      "2024-10-28": 0
+    }
   },
   {
     "name": "Wiki",
