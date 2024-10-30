@@ -4,18 +4,20 @@
     "url": "https://turkb.us",
     "icon": "https://icons.duckduckgo.com/ip3/turkb.us.ico",
     "slug": "home-page",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 637,
-    "timeDay": 526,
-    "timeWeek": 583,
-    "timeMonth": 637,
-    "timeYear": 637,
-    "dailyMinutesDown": {}
+    "time": 636,
+    "timeDay": 506,
+    "timeWeek": 579,
+    "timeMonth": 636,
+    "timeYear": 636,
+    "dailyMinutesDown": {
+      "2024-10-30": 0
+    }
   },
   {
     "name": "Game Server",
@@ -40,18 +42,19 @@
     "url": "https://api.turkb.us/v2/server",
     "icon": "https://icons.duckduckgo.com/ip3/api.turkb.us.ico",
     "slug": "api-v2",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.95%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.98%",
-    "time": 1087,
-    "timeDay": 608,
-    "timeWeek": 864,
-    "timeMonth": 1087,
-    "timeYear": 1087,
+    "time": 1082,
+    "timeDay": 590,
+    "timeWeek": 856,
+    "timeMonth": 1082,
+    "timeYear": 1082,
     "dailyMinutesDown": {
+      "2024-10-30": 0,
       "2024-10-28": 5
     }
   },
@@ -60,17 +63,19 @@
     "url": "https://wiki.turkb.us/Ping",
     "icon": "https://icons.duckduckgo.com/ip3/wiki.turkb.us.ico",
     "slug": "wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 738,
-    "timeDay": 664,
-    "timeWeek": 733,
-    "timeMonth": 738,
-    "timeYear": 738,
-    "dailyMinutesDown": {}
+    "time": 735,
+    "timeDay": 628,
+    "timeWeek": 726,
+    "timeMonth": 735,
+    "timeYear": 735,
+    "dailyMinutesDown": {
+      "2024-10-30": 0
+    }
   }
 ]
