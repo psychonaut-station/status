@@ -4,18 +4,19 @@
     "url": "https://turkb.us",
     "icon": "https://icons.duckduckgo.com/ip3/turkb.us.ico",
     "slug": "home-page",
-    "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "99.70%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 633,
     "timeDay": 626,
     "timeWeek": 587,
     "timeMonth": 633,
     "timeYear": 633,
     "dailyMinutesDown": {
+      "2024-11-01": 4,
       "2024-10-30": 10
     }
   },
@@ -24,36 +25,39 @@
     "url": "p1.turkb.us",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "game-server",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 155,
     "timeDay": 170,
     "timeWeek": 164,
     "timeMonth": 155,
     "timeYear": 155,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-01": 3
+    }
   },
   {
     "name": "API (v2)",
     "url": "https://api.turkb.us/v2/server",
     "icon": "https://icons.duckduckgo.com/ip3/api.turkb.us.ico",
     "slug": "api-v2",
-    "status": "up",
-    "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
+    "status": "down",
+    "uptime": "99.94%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
     "time": 1048,
     "timeDay": 703,
     "timeWeek": 774,
     "timeMonth": 1048,
     "timeYear": 1048,
     "dailyMinutesDown": {
+      "2024-11-01": 2,
       "2024-10-30": 10,
       "2024-10-28": 5
     }
@@ -63,7 +67,7 @@
     "url": "https://wiki.turkb.us/Ping",
     "icon": "https://icons.duckduckgo.com/ip3/wiki.turkb.us.ico",
     "slug": "wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.90%",
@@ -75,6 +79,7 @@
     "timeMonth": 731,
     "timeYear": 731,
     "dailyMinutesDown": {
+      "2024-11-01": 0,
       "2024-10-30": 10
     }
   }
