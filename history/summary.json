@@ -4,9 +4,9 @@
     "url": "https://turkb.us",
     "icon": "https://icons.duckduckgo.com/ip3/turkb.us.ico",
     "slug": "home-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.95%",
@@ -16,6 +16,7 @@
     "timeMonth": 581,
     "timeYear": 606,
     "dailyMinutesDown": {
+      "2024-11-27": 0,
       "2024-11-01": 23,
       "2024-10-30": 10
     }
@@ -25,9 +26,9 @@
     "url": "p1.turkb.us",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "game-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.96%",
@@ -37,6 +38,7 @@
     "timeMonth": 151,
     "timeYear": 152,
     "dailyMinutesDown": {
+      "2024-11-27": 0,
       "2024-11-02": 10,
       "2024-11-01": 21
     }
@@ -46,9 +48,9 @@
     "url": "https://api.turkb.us/v2/server",
     "icon": "https://icons.duckduckgo.com/ip3/api.turkb.us.ico",
     "slug": "api-v2",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.95%",
@@ -58,6 +60,7 @@
     "timeMonth": 639,
     "timeYear": 817,
     "dailyMinutesDown": {
+      "2024-11-27": 0,
       "2024-11-01": 20,
       "2024-10-30": 10,
       "2024-10-28": 5
@@ -68,9 +71,9 @@
     "url": "https://wiki.turkb.us/Ping",
     "icon": "https://icons.duckduckgo.com/ip3/wiki.turkb.us.ico",
     "slug": "wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.96%",
@@ -80,6 +83,7 @@
     "timeMonth": 643,
     "timeYear": 676,
     "dailyMinutesDown": {
+      "2024-11-27": 0,
       "2024-11-01": 18,
       "2024-10-30": 10
     }
