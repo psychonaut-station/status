@@ -7,7 +7,7 @@ sites:
     url: https://tr.ss13.org
   - name: Game Server
     url: tr-1.ss13.org
-    port: 3132
+    port: 3131
     check: "tcp-ping"
   - name: API (v2)
     url: https://api.ss13.org/v2/server
