@@ -6,7 +6,7 @@ sites:
   - name: Home Page
     url: https://tr.ss13.org
   - name: Game Server
-    url: p1.turkb.us
+    url: tr-1.ss13.org
     port: 3131
     check: "tcp-ping"
   - name: API (v2)
