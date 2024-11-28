@@ -4,30 +4,30 @@ repo: status # The name of this repository
 
 sites:
   - name: Home Page
-    url: https://turkb.us
+    url: https://tr.ss13.org
   - name: Game Server
     url: p1.turkb.us
     port: 3131
     check: "tcp-ping"
   - name: API (v2)
-    url: https://api.turkb.us/v2/server
+    url: https://api.ss13.org/v2/server
     expectedStatusCodes:
       - 200
       - 201
       - 403
   - name: Wiki
-    url: https://wiki.turkb.us/Ping
+    url: https://tr.ss13.org/Ping
     __dangerous__body_down_if_text_missing: "iamaliveandgood31"
 
 status-website:
-  cname: status.turkb.us
+  cname: tr.ss13.org
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Psychonaut Station Status
   theme: night
   introTitle: "Psychonaut Station Server Status"
   navbar:
     - title: Status
-      href: /
+      href: /status
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
