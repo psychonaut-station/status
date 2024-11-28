@@ -10,7 +10,7 @@ sites:
     port: 3131
     check: "tcp-ping"
   - name: API (v2)
-    url: https://api.ss13ff.org/v2/server
+    url: https://api.ss13.org/v2/server
     expectedStatusCodes:
       - 200
       - 201
