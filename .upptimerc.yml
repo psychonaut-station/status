@@ -9,6 +9,7 @@ sites:
     url: tr-1.ss13.org
     port: 3131
     check: "tcp-ping"
+    maxResponseTime: 300
   - name: API (v2)
     url: https://api.ss13.org/v2/server
     expectedStatusCodes:
