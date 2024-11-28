@@ -16,7 +16,7 @@ sites:
       - 201
       - 403
   - name: Wiki
-    url: https://tr.ss13.org/wiki/Ping
+    url: https://wiki.ss13.org/Ping
     __dangerous__body_down_if_text_missing: "iamaliveandgood31"
 
 status-website:
