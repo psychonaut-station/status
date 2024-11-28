@@ -16,18 +16,18 @@ sites:
       - 201
       - 403
   - name: Wiki
-    url: https://tr.ss13.org/Ping
+    url: https://tr.ss13.org/wiki/Ping
     __dangerous__body_down_if_text_missing: "iamaliveandgood31"
 
 status-website:
-  cname: tr.ss13.org
+  cname: status-tr1.ss13.org
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Psychonaut Station Status
   theme: night
   introTitle: "Psychonaut Station Server Status"
   navbar:
     - title: Status
-      href: /status
+      href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
