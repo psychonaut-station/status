@@ -1,7 +1,7 @@
 url: https://api.ss13.org/v2/server
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-12-08T00:37:06.175Z
+status: up
+code: 200
+responseTime: 770
+lastUpdated: 2024-12-08T01:38:47.084Z
 startTime: 2024-10-11T13:26:02.690Z
 generator: Upptime <https://github.com/upptime/upptime>
