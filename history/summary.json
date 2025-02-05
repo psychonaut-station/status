@@ -6,8 +6,8 @@
     "slug": "home-page",
     "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.83%",
     "time": 671,
@@ -16,6 +16,7 @@
     "timeMonth": 693,
     "timeYear": 671,
     "dailyMinutesDown": {
+      "2025-02-05": 1,
       "2025-01-21": 11,
       "2024-12-29": 10,
       "2024-12-08": 64,
