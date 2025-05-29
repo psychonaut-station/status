@@ -1,22 +1,22 @@
 [
   {
-    "name": "BYOND Hub",
+    "name": "BYOND",
     "url": "https://www.byond.com/games/hub/exadv1/spacestation13",
     "icon": "https://icons.duckduckgo.com/ip3/www.byond.com.ico",
-    "slug": "byond-hub",
+    "slug": "byond",
     "status": "down",
-    "uptime": "62.67%",
-    "uptimeDay": "62.67%",
-    "uptimeWeek": "62.67%",
-    "uptimeMonth": "62.67%",
-    "uptimeYear": "62.67%",
-    "time": 19639,
-    "timeDay": 19639,
-    "timeWeek": 19639,
-    "timeMonth": 19639,
-    "timeYear": 19639,
+    "uptime": "90.78%",
+    "uptimeDay": "90.78%",
+    "uptimeWeek": "90.78%",
+    "uptimeMonth": "90.78%",
+    "uptimeYear": "90.78%",
+    "time": 19509,
+    "timeDay": 19509,
+    "timeWeek": 19509,
+    "timeMonth": 19509,
+    "timeYear": 19509,
     "dailyMinutesDown": {
-      "2025-05-29": 1
+      "2025-05-29": 0
     }
   },
   {
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
     "time": 680,
-    "timeDay": 673,
-    "timeWeek": 605,
-    "timeMonth": 624,
+    "timeDay": 680,
+    "timeWeek": 608,
+    "timeMonth": 625,
     "timeYear": 680,
     "dailyMinutesDown": {
       "2025-04-10": 261,
@@ -118,9 +118,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
     "time": 704,
-    "timeDay": 635,
-    "timeWeek": 579,
-    "timeMonth": 599,
+    "timeDay": 648,
+    "timeWeek": 583,
+    "timeMonth": 600,
     "timeYear": 704,
     "dailyMinutesDown": {
       "2025-04-29": 53,
@@ -148,8 +148,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.62%",
     "time": 697,
-    "timeDay": 663,
-    "timeWeek": 586,
+    "timeDay": 672,
+    "timeWeek": 589,
     "timeMonth": 593,
     "timeYear": 697,
     "dailyMinutesDown": {
