@@ -3,7 +3,7 @@ owner: psychonaut-station # Your GitHub organization or username, where this rep
 repo: status # The name of this repository
 
 sites:
-  - name: BYOND Hub
+  - name: BYOND
     url: https://www.byond.com/games/hub/exadv1/spacestation13
   - name: Home Page
     url: https://tr.ss13.org
