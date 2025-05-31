@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.byond.com.ico",
     "slug": "byond",
     "status": "down",
-    "uptime": "8.69%",
+    "uptime": "8.44%",
     "uptimeDay": "12.60%",
-    "uptimeWeek": "8.69%",
-    "uptimeMonth": "8.69%",
-    "uptimeYear": "8.69%",
+    "uptimeWeek": "8.44%",
+    "uptimeMonth": "8.44%",
+    "uptimeYear": "8.44%",
     "time": 14842,
     "timeDay": 12410,
     "timeWeek": 14842,
     "timeMonth": 14842,
     "timeYear": 14842,
     "dailyMinutesDown": {
-      "2025-05-31": 575,
+      "2025-05-31": 639,
       "2025-05-30": 1259,
       "2025-05-29": 83
     }
