@@ -6,7 +6,7 @@
     "slug": "byond",
     "status": "down",
     "uptime": "12.48%",
-    "uptimeDay": "48.55%",
+    "uptimeDay": "48.48%",
     "uptimeWeek": "19.87%",
     "uptimeMonth": "12.48%",
     "uptimeYear": "12.48%",
@@ -16,7 +16,7 @@
     "timeMonth": 7301,
     "timeYear": 7301,
     "dailyMinutesDown": {
-      "2025-06-11": 69,
+      "2025-06-11": 70,
       "2025-06-10": 813,
       "2025-06-09": 775,
       "2025-06-08": 1440,
