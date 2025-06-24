@@ -6,24 +6,22 @@ sites:
   - name: BYOND
     url: https://www.byond.com/games/hub/exadv1/spacestation13
   - name: Home Page
-    url: https://tr.ss13.org
+    url: https://ss13.tr
   - name: Game Server
-    url: tr-1.ss13.org
+    url: play.ss13.tr
     port: 3131
     check: "tcp-ping"
     maxResponseTime: 300
-  - name: API (v2)
-    url: https://api.ss13.org/v2/server
+  - name: API
+    url: https://api.ss13.tr
     expectedStatusCodes:
-      - 200
-      - 201
-      - 403
+      - 404
   - name: Wiki
-    url: https://wiki.ss13.org/Ping
+    url: https://wiki.ss13.tr/Ping
     __dangerous__body_down_if_text_missing: "iamaliveandgood31"
 
 status-website:
-  cname: status-tr1.ss13.org
+  cname: status.ss13.tr
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Psychonaut Station Status
   theme: night
