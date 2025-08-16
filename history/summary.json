@@ -16,7 +16,7 @@
     "timeMonth": 123,
     "timeYear": 7403,
     "dailyMinutesDown": {
-      "2025-08-16": 522,
+      "2025-08-16": 576,
       "2025-08-15": 1440,
       "2025-08-14": 1440,
       "2025-08-13": 1440,
@@ -148,7 +148,7 @@
     "time": 142,
     "timeDay": 122,
     "timeWeek": 120,
-    "timeMonth": 119,
+    "timeMonth": 118,
     "timeYear": 142,
     "dailyMinutesDown": {
       "2025-08-06": 85,
@@ -225,7 +225,7 @@
     "time": 706,
     "timeDay": 570,
     "timeWeek": 582,
-    "timeMonth": 788,
+    "timeMonth": 789,
     "timeYear": 706,
     "dailyMinutesDown": {
       "2025-08-06": 61,
