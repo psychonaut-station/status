@@ -13,10 +13,10 @@
     "time": 4970,
     "timeDay": 91,
     "timeWeek": 140,
-    "timeMonth": 157,
+    "timeMonth": 156,
     "timeYear": 4970,
     "dailyMinutesDown": {
-      "2025-10-01": 279,
+      "2025-10-01": 338,
       "2025-09-30": 1440,
       "2025-09-29": 1440,
       "2025-09-28": 1440,
@@ -252,7 +252,7 @@
     "time": 619,
     "timeDay": 480,
     "timeWeek": 551,
-    "timeMonth": 546,
+    "timeMonth": 545,
     "timeYear": 619,
     "dailyMinutesDown": {
       "2025-08-11": 55,
@@ -273,7 +273,7 @@
     "time": 686,
     "timeDay": 418,
     "timeWeek": 497,
-    "timeMonth": 518,
+    "timeMonth": 517,
     "timeYear": 686,
     "dailyMinutesDown": {
       "2025-09-14": 65,
