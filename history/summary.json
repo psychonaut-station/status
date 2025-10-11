@@ -16,7 +16,7 @@
     "timeMonth": 140,
     "timeYear": 4644,
     "dailyMinutesDown": {
-      "2025-10-11": 185,
+      "2025-10-11": 220,
       "2025-10-10": 1440,
       "2025-10-09": 1440,
       "2025-10-08": 1440,
@@ -197,7 +197,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "game-server",
     "status": "up",
-    "uptime": "99.42%",
+    "uptime": "99.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
