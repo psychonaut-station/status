@@ -16,7 +16,7 @@
     "timeMonth": 169,
     "timeYear": 3727,
     "dailyMinutesDown": {
-      "2025-11-17": 785,
+      "2025-11-17": 826,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
       "2025-11-14": 1440,
@@ -310,7 +310,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/wiki.ss13.tr.ico",
     "slug": "wiki",
     "status": "up",
-    "uptime": "97.99%",
+    "uptime": "98.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
