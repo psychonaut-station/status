@@ -13,10 +13,10 @@
     "time": 3495,
     "timeDay": 189,
     "timeWeek": 153,
-    "timeMonth": 165,
+    "timeMonth": 166,
     "timeYear": 3495,
     "dailyMinutesDown": {
-      "2025-11-30": 521,
+      "2025-11-30": 574,
       "2025-11-29": 1440,
       "2025-11-28": 1440,
       "2025-11-27": 1440,
@@ -214,7 +214,7 @@
     "time": 691,
     "timeDay": 849,
     "timeWeek": 768,
-    "timeMonth": 753,
+    "timeMonth": 750,
     "timeYear": 697,
     "dailyMinutesDown": {
       "2025-11-18": 183,
