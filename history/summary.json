@@ -10,13 +10,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "3.19%",
-    "time": 2958,
-    "timeDay": 168,
-    "timeWeek": 777,
-    "timeMonth": 669,
-    "timeYear": 2958,
+    "time": 2956,
+    "timeDay": 159,
+    "timeWeek": 778,
+    "timeMonth": 657,
+    "timeYear": 2956,
     "dailyMinutesDown": {
-      "2026-02-06": 1424,
+      "2026-02-07": 187,
+      "2026-02-06": 1440,
       "2026-02-05": 1440,
       "2026-02-04": 1440,
       "2026-02-03": 1440,
@@ -280,9 +281,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
     "time": 707,
-    "timeDay": 654,
-    "timeWeek": 1149,
-    "timeMonth": 1147,
+    "timeDay": 638,
+    "timeWeek": 1141,
+    "timeMonth": 1135,
     "timeYear": 708,
     "dailyMinutesDown": {
       "2025-11-18": 173,
@@ -315,7 +316,7 @@
     "uptimeYear": "99.48%",
     "time": 130,
     "timeDay": 110,
-    "timeWeek": 123,
+    "timeWeek": 122,
     "timeMonth": 125,
     "timeYear": 129,
     "dailyMinutesDown": {
@@ -348,8 +349,7 @@
       "2025-02-13": 9,
       "2025-02-12": 23,
       "2025-02-11": 10,
-      "2025-02-10": 16,
-      "2025-02-07": 116
+      "2025-02-10": 16
     }
   },
   {
@@ -358,18 +358,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.ss13.tr.ico",
     "slug": "api",
     "status": "up",
-    "uptime": "71.28%",
+    "uptime": "71.23%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "71.28%",
+    "uptimeYear": "71.23%",
     "time": 633,
-    "timeDay": 529,
-    "timeWeek": 1412,
-    "timeMonth": 1309,
+    "timeDay": 513,
+    "timeWeek": 1405,
+    "timeMonth": 1291,
     "timeYear": 633,
     "dailyMinutesDown": {
-      "2026-02-06": 1425,
+      "2026-02-07": 187,
+      "2026-02-06": 1440,
       "2026-02-05": 1440,
       "2026-02-04": 1440,
       "2026-02-03": 1440,
@@ -453,9 +454,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.01%",
     "time": 658,
-    "timeDay": 426,
+    "timeDay": 449,
     "timeWeek": 1163,
-    "timeMonth": 1085,
+    "timeMonth": 1075,
     "timeYear": 654,
     "dailyMinutesDown": {
       "2025-11-18": 169,
@@ -477,8 +478,7 @@
       "2025-04-03": 6,
       "2025-03-10": 9,
       "2025-02-12": 22,
-      "2025-02-09": 10,
-      "2025-02-07": 21
+      "2025-02-09": 10
     }
   }
 ]
