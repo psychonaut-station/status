@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.byond.com.ico",
     "slug": "byond",
     "status": "up",
-    "uptime": "20.56%",
+    "uptime": "20.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "20.56%",
-    "time": 2392,
-    "timeDay": 120,
-    "timeWeek": 110,
+    "uptimeYear": "20.60%",
+    "time": 2391,
+    "timeDay": 116,
+    "timeWeek": 111,
     "timeMonth": 142,
-    "timeYear": 2392,
+    "timeYear": 2391,
     "dailyMinutesDown": {
       "2026-02-09": 1312,
       "2026-02-08": 1440,
@@ -283,8 +283,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
     "time": 700,
-    "timeDay": 727,
-    "timeWeek": 754,
+    "timeDay": 744,
+    "timeWeek": 756,
     "timeMonth": 711,
     "timeYear": 701,
     "dailyMinutesDown": {
@@ -311,9 +311,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.67%",
     "time": 124,
-    "timeDay": 116,
-    "timeWeek": 117,
-    "timeMonth": 121,
+    "timeDay": 115,
+    "timeWeek": 116,
+    "timeMonth": 120,
     "timeYear": 120,
     "dailyMinutesDown": {
       "2025-09-07": 11,
@@ -322,8 +322,7 @@
       "2025-06-24": 114,
       "2025-06-09": 27,
       "2025-04-10": 328,
-      "2025-04-08": 672,
-      "2025-04-07": 82
+      "2025-04-08": 672
     }
   },
   {
@@ -332,14 +331,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.ss13.tr.ico",
     "slug": "api",
     "status": "up",
-    "uptime": "76.18%",
+    "uptime": "76.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "76.18%",
+    "uptimeYear": "76.19%",
     "time": 618,
-    "timeDay": 628,
-    "timeWeek": 566,
+    "timeDay": 603,
+    "timeWeek": 561,
     "timeMonth": 564,
     "timeYear": 618,
     "dailyMinutesDown": {
@@ -428,12 +427,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.53%",
+    "uptimeYear": "98.57%",
     "time": 627,
-    "timeDay": 564,
-    "timeWeek": 549,
+    "timeDay": 557,
+    "timeWeek": 542,
     "timeMonth": 537,
-    "timeYear": 617,
+    "timeYear": 618,
     "dailyMinutesDown": {
       "2025-11-18": 169,
       "2025-10-28": 20,
@@ -447,8 +446,7 @@
       "2025-04-11": 1365,
       "2025-04-10": 1440,
       "2025-04-09": 1440,
-      "2025-04-08": 1440,
-      "2025-04-07": 1440
+      "2025-04-08": 1440
     }
   }
 ]
