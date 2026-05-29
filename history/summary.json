@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.byond.com.ico",
     "slug": "byond",
     "status": "up",
-    "uptime": "31.90%",
+    "uptime": "31.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "31.90%",
+    "uptimeYear": "31.92%",
     "time": 2065,
     "timeDay": 110,
     "timeWeek": 110,
@@ -267,8 +267,7 @@
       "2025-06-02": 1440,
       "2025-06-01": 1440,
       "2025-05-31": 1440,
-      "2025-05-30": 1259,
-      "2025-05-29": 83
+      "2025-05-30": 1259
     }
   },
   {
@@ -328,11 +327,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.ss13.tr.ico",
     "slug": "api",
     "status": "up",
-    "uptime": "79.83%",
+    "uptime": "79.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "79.83%",
+    "uptimeYear": "79.84%",
     "time": 614,
     "timeDay": 640,
     "timeWeek": 591,
