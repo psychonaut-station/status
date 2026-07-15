@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.byond.com.ico",
     "slug": "byond",
     "status": "up",
-    "uptime": "39.69%",
+    "uptime": "39.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "42.48%",
+    "uptimeYear": "42.49%",
     "time": 926,
     "timeDay": 715,
     "timeWeek": 706,
@@ -224,8 +224,7 @@
       "2025-07-19": 1440,
       "2025-07-18": 1440,
       "2025-07-17": 1440,
-      "2025-07-16": 1440,
-      "2025-07-15": 1440
+      "2025-07-16": 1440
     }
   },
   {
@@ -278,7 +277,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.ss13.tr.ico",
     "slug": "api",
     "status": "up",
-    "uptime": "82.29%",
+    "uptime": "82.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
