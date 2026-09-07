@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.byond.com.ico",
     "slug": "byond",
     "status": "up",
-    "uptime": "46.69%",
+    "uptime": "46.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "57.27%",
+    "uptimeYear": "57.30%",
     "time": 331,
     "timeDay": 897,
     "timeWeek": 886,
-    "timeMonth": 958,
+    "timeMonth": 956,
     "timeYear": 341,
     "dailyMinutesDown": {
       "2026-02-09": 1312,
@@ -170,8 +170,7 @@
       "2025-09-11": 1440,
       "2025-09-10": 1440,
       "2025-09-09": 1440,
-      "2025-09-08": 1440,
-      "2025-09-07": 1440
+      "2025-09-08": 1440
     }
   },
   {
@@ -188,7 +187,7 @@
     "time": 719,
     "timeDay": 644,
     "timeWeek": 767,
-    "timeMonth": 754,
+    "timeMonth": 753,
     "timeYear": 731,
     "dailyMinutesDown": {
       "2025-09-14": 65,
@@ -212,9 +211,7 @@
     "timeWeek": 125,
     "timeMonth": 123,
     "timeYear": 121,
-    "dailyMinutesDown": {
-      "2025-09-07": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "API",
@@ -230,7 +227,7 @@
     "time": 594,
     "timeDay": 637,
     "timeWeek": 597,
-    "timeMonth": 580,
+    "timeMonth": 577,
     "timeYear": 595,
     "dailyMinutesDown": {
       "2025-10-03": 32,
@@ -320,7 +317,7 @@
     "time": 558,
     "timeDay": 424,
     "timeWeek": 562,
-    "timeMonth": 525,
+    "timeMonth": 524,
     "timeYear": 555,
     "dailyMinutesDown": {
       "2025-09-14": 65,
