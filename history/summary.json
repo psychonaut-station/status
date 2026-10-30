@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.byond.com.ico",
     "slug": "byond",
     "status": "up",
-    "uptime": "52.14%",
+    "uptime": "52.16%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "71.78%",
+    "uptimeYear": "71.83%",
     "time": 410,
     "timeDay": 835,
-    "timeWeek": 909,
-    "timeMonth": 942,
+    "timeWeek": 922,
+    "timeMonth": 940,
     "timeYear": 439,
     "dailyMinutesDown": {
       "2026-02-09": 1312,
@@ -117,8 +117,7 @@
       "2025-11-03": 1440,
       "2025-11-02": 1440,
       "2025-11-01": 1440,
-      "2025-10-31": 1440,
-      "2025-10-30": 1440
+      "2025-10-31": 1440
     }
   },
   {
@@ -134,8 +133,8 @@
     "uptimeYear": "99.96%",
     "time": 737,
     "timeDay": 786,
-    "timeWeek": 747,
-    "timeMonth": 735,
+    "timeWeek": 739,
+    "timeMonth": 736,
     "timeYear": 740,
     "dailyMinutesDown": {
       "2025-11-15": 20,
@@ -155,7 +154,7 @@
     "uptimeYear": "100.00%",
     "time": 122,
     "timeDay": 128,
-    "timeWeek": 118,
+    "timeWeek": 119,
     "timeMonth": 124,
     "timeYear": 122,
     "dailyMinutesDown": {}
@@ -166,14 +165,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.ss13.tr.ico",
     "slug": "api",
     "status": "up",
-    "uptime": "86.14%",
+    "uptime": "86.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "81.34%",
     "time": 600,
     "timeDay": 637,
-    "timeWeek": 635,
+    "timeWeek": 634,
     "timeMonth": 585,
     "timeYear": 605,
     "dailyMinutesDown": {
