@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.byond.com.ico",
     "slug": "byond",
     "status": "up",
-    "uptime": "54.00%",
+    "uptime": "54.02%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "77.52%",
+    "uptimeYear": "77.59%",
     "time": 446,
-    "timeDay": 714,
-    "timeWeek": 836,
-    "timeMonth": 865,
+    "timeDay": 746,
+    "timeWeek": 837,
+    "timeMonth": 863,
     "timeYear": 471,
     "dailyMinutesDown": {
       "2026-02-09": 1312,
@@ -96,8 +96,7 @@
       "2025-11-24": 1440,
       "2025-11-23": 1440,
       "2025-11-22": 1440,
-      "2025-11-21": 1440,
-      "2025-11-20": 1440
+      "2025-11-21": 1440
     }
   },
   {
@@ -112,9 +111,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 739,
-    "timeDay": 655,
-    "timeWeek": 724,
-    "timeMonth": 752,
+    "timeDay": 614,
+    "timeWeek": 718,
+    "timeMonth": 750,
     "timeYear": 739,
     "dailyMinutesDown": {}
   },
@@ -130,8 +129,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 122,
-    "timeDay": 132,
-    "timeWeek": 135,
+    "timeDay": 122,
+    "timeWeek": 132,
     "timeMonth": 125,
     "timeYear": 122,
     "dailyMinutesDown": {}
@@ -148,9 +147,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "81.37%",
     "time": 605,
-    "timeDay": 641,
-    "timeWeek": 589,
-    "timeMonth": 614,
+    "timeDay": 663,
+    "timeWeek": 597,
+    "timeMonth": 616,
     "timeYear": 604,
     "dailyMinutesDown": {
       "2026-02-09": 1312,
@@ -236,8 +235,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 566,
-    "timeDay": 642,
-    "timeWeek": 641,
+    "timeDay": 547,
+    "timeWeek": 626,
     "timeMonth": 609,
     "timeYear": 564,
     "dailyMinutesDown": {
